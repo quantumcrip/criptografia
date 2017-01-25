@@ -10,6 +10,8 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="figuras" Type="Folder"/>
+		<Item Name="Calibragem.vi" Type="VI" URL="../Calibragem.vi"/>
 		<Item Name="Tabela_dinamica.vi" Type="VI" URL="../Tabela_dinamica.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
